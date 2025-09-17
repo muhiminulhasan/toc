@@ -30,8 +30,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/toc-generator.git
-cd toc-generator
+git clone https://github.com/muhiminulhasan/toc.git
+cd toc
 
 # Build the project
 zig build
@@ -256,8 +256,8 @@ We welcome contributions! Here's how to get started:
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/yourusername/toc-generator.git
-   cd toc-generator
+   git clone https://github.com/muhiminulhasan/toc.git
+   cd toc
    ```
 3. **Create** a feature branch:
    ```bash
